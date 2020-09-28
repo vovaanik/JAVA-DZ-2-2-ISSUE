@@ -4,14 +4,14 @@
 
 В результате тестирования выявлена ошибка программы в точности расчета бонуса при использовании данных типа double.
 
-Описание процесса тестирования
+*Описание процесса тестирования
 
 Загружаем программу AdoptOpenJDK\jdk-11.0.8.10-hotspot
 Загружаем программу JetBrains\IntelliJ IDEA Community Edition 2020.2
 Тестируемый код находится в репозитории по адресу:
 https://github.com/vovaanik/JAVA-DZ-2-2-code/blob/master/Main.java2-2
 
-Последовательность действий:
+*Последовательность действий:
 
 Открываем код https://github.com/vovaanik/JAVA-DZ-2-2-code/blob/master/Main.java2-2 в IntelliJ IDEA Community Edition 2020.2
 Запускаем программу командой RUN
